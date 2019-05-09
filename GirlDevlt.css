@@ -1,0 +1,38 @@
+/*
+* Jaclyn Roethel
+* May 8th, 2019
+* Project 4- Girl Develop It
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body {background-color: #ffd2d2;}
+
+/* this makes the image float the center */
+
+header {text-align: center; background-color: #ff6161;}
+
+/* this allows the "about" to be in cursive */
+
+h1, h2 {font-family: "lucida handwriting", cursive, arial; text-decoration: underline; font-weight: bold}
+
+/* this floats the images to the right */
+
+.photo {height: 100%; float: right;}
+
+/* this floats the images to the right */
+
+.photo2 {height: 100%; float: right;}
+
+a:hover, a:focus {color: purple; font-size: 15pt;}
+
+main {font-family: Arial, sans-serif;}
+
+footer {font-family: "Times New Roman", serif;}
